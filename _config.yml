@@ -27,7 +27,7 @@ customize:
     favicon: /images/favicon.png # path to favicon
     social_links:
         linkedin: https://www.linkedin.com/in/linkcd
-#        github: http://github.com/ppoffice/hexo-theme-icarus
+        github: https://github.com/linkcd
 #        twitter: /
 #        facebook: /
 #        dribbble: /
