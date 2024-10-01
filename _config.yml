@@ -18,7 +18,7 @@ customize:
         avatar: /images/avatar.jpg
         gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
         author: Feng Lu
-        author_title: Developer, Architect and Technical Evangelist
+        author_title: Builder, Speaker, Architect and Technical Evangelist
         location: Oslo Area, Norway
         follow: https://github.com/linkcd/
     highlight: monokai
